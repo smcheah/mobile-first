@@ -1,5 +1,6 @@
 # mobile-first
 Singular responsive web page
+
 Based on tutorial by designcourse: https://www.youtube.com/watch?v=8gNrZ4lAnAw
 
 Description:
